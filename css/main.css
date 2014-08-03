@@ -102,9 +102,9 @@ textarea {
 
 #sagar{
     color: #fafafa;
-    font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'Alegreya Sans SC', sans-serif;
     font-size: 6.5em;
-    font-weight: 200; 
+    font-weight: 100; 
     display:inline-block;
     padding-top: 250px;
 
@@ -112,7 +112,7 @@ textarea {
 }
 #kad{
     color: #fafafa;
-    font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'Alegreya Sans SC', sans-serif;
     font-size: 6.5em;
     font-weight: 700; 
     display:inline-block;
